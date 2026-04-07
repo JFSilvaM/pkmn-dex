@@ -1,0 +1,8 @@
+@use "@/styles/variables" as *;
+
+.header {
+  text-align: center;
+  background: linear-gradient(#ff6363, $bg-color-primary);
+  margin: 0;
+  padding: 1rem 0;
+}

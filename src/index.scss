@@ -1,5 +1,4 @@
-$bg-color-primary: #f9fafb;
-$color-primary: #111827;
+@use "@/styles/variables" as *;
 
 body {
   font-family: "Roboto", sans-serif;
